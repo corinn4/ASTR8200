@@ -1,0 +1,14 @@
+suppl
+*.txt
+*.4tc
+*.4ct
+*.aux
+*.css
+*.dvi
+*.idv
+*.lg
+*.log
+*.out
+*.pdf
+*.tmp
+*.xref
